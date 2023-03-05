@@ -18,3 +18,41 @@
 .btndanidanger{
   background-color: rgb(207, 31, 31);
 }
+ul {
+  background: #e9bebe;
+  border: 1px solid #7C7C7C;
+  list-style: none;
+  margin: 60px;
+  padding: 0;
+}
+ul li a {
+  color: #333;
+  display: block;
+  padding: .3em;
+  text-decoration: none;
+  padding-left: 100px;
+}
+ul li {
+  float: left;
+  width: 20%;
+}
+ul{
+  overflow: hidden;
+}
+nav li:hover{
+  background-color:#ee9de0;
+  color:#000;
+}
+
+.caja1{
+  background-color: aqua;
+}
+.caja2{
+  background-color: #c7bec5;
+}
+.caja3{
+  background-color: #9dceee;
+}
+.caja4{
+  background-color: #b5e4d2;
+}
