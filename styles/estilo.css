@@ -56,3 +56,9 @@ nav li:hover{
 .caja4{
   background-color: #b5e4d2;
 }
+.daniCard{
+  border: 1px rgb(0 0 0 / .5) solid;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
